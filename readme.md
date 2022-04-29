@@ -1,6 +1,6 @@
 # Multi-Camera Vehicle Tracking System for AI City Challenge 2022
 
-The 2nd place solution of track1 (City-Scale Multi-Camera Vehicle Tracking) in the [NVIDIA AI City Challenge](https://www.aicitychallenge.org/) at CVPR 2022 Workshop.
+The 2nd place solution of track1 (City-Scale Multi-Camera Vehicle Tracking) in the [NVIDIA AI City Challenge](https://www.aicitychallenge.org/) from team 59 ([BOE Technology Group Co., Ltd](https://www.boe.com/en))
 
 ## Environment 
 - GPU Compute Capability: 7.5
