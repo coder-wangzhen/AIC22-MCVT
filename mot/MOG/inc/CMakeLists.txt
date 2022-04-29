@@ -1,0 +1,4 @@
+set(MOG_HEADERS
+        ${CMAKE_CURRENT_SOURCE_DIR}/bgm.h
+        PARENT_SCOPE
+)

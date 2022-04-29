@@ -1,0 +1,305 @@
+min box area: gt中最小box面积
+max iou: gt中最大iou值
+min distance x, y: gt中box中心点，在x方向距离边界最小距离，在y方向距离边界最小距离
+
+train/S01/c001: 1920 x 1080
+min box area: 3249
+max iou: 0.20856255954759198
+min distance x, y: (102.5, 177.5)
+
+train/S01/c002: 1920 x 1080
+min box area: 4256
+max iou: 0.3635671647770522
+min distance x, y: (121.5, 134.5)
+
+train/S01/c003: 1920 x 1080
+min box area: 3402
+max iou: 0.26821052631578945
+min distance x, y: (96.5, 130.0)
+
+train/S01/c004: 1920 x 1080
+min box area: 2365
+max iou: 0.2388154364053276
+min distance x, y: (97.5, 140.0)
+
+train/S01/c005: 1280 x 960
+min box area: 1178
+max iou: 0.325638911788953
+min distance x, y: (24.5, 74.0)
+
+train/S03/c010: 1920 x 1080
+min box area: 5780
+max iou: 0.18162773646171573
+min distance x, y: (231.0, 100.0)
+
+train/S03/c011: 2560 x 1920
+min box area: 3402
+max iou: 0.01884876607036222
+min distance x, y: (200.5, 200.0)
+
+train/S03/c012: 2560 x 1920
+min box area: 61710
+max iou: 0.0
+min distance x, y: (205.0, 387.0)
+
+train/S03/c013: 2560 x 1920
+min box area: 5084
+max iou: 0.24829805669018443
+min distance x, y: (241.5, 552.5)
+
+train/S03/c014: 1920 x 1080
+min box area: 2806
+max iou: 0.3292525773195876
+min distance x, y: (370.5, 21.5)
+
+train/S03/c015: 1920 x 1080
+min box area: 119448
+max iou: 0
+min distance x, y: (255.0, 156.5)
+
+train/S04/c016: 1920 x 1080
+min box area: 5808
+max iou: 0.29397051079515535
+min distance x, y: (155.5, 76.0)
+
+train/S04/c017: 1920 x 1080
+min box area: 12470
+max iou: 0.27853283117733746
+min distance x, y: (126.5, 166.0)
+
+train/S04/c018: 2560 x 1920
+min box area: 7920
+max iou: 0.1860582589661559
+min distance x, y: (49.5, 330.5)
+
+train/S04/c019: 2560 x 1920
+min box area: 24528
+max iou: 0.09450629109925957
+min distance x, y: (132.5, 379.5)
+
+train/S04/c020: 2560 x 1920
+min box area: 4526
+max iou: 0.12029313537726143
+min distance x, y: (346.0, 538.5)
+
+train/S04/c021: 1920 x 1080
+min box area: 13260
+max iou: 0.06929195777757614
+min distance x, y: (193.5, 103.5)
+
+train/S04/c022: 1920 x 1080
+min box area: 3392
+max iou: 0.00793991416309013
+min distance x, y: (393.0, 146.5)
+
+train/S04/c023: 2560 x 1920
+min box area: 3120
+max iou: 0.11245665510802881
+min distance x, y: (346.5, 357.5)
+
+train/S04/c024: 2560 x 1920
+min box area: 423096
+max iou: 0.07288627791314797
+min distance x, y: (433.5, 279.0)
+
+train/S04/c025: 2560 x 1920
+min box area: 3248
+max iou: 0.12798167700128485
+min distance x, y: (309.0, 322.0)
+
+train/S04/c026: 1920 x 1080
+min box area: 3136
+max iou: 0.3700440528634361
+min distance x, y: (615.5, 64.5)
+
+train/S04/c027: 1920 x 1080
+min box area: 2236
+max iou: 0.33051123412569194
+min distance x, y: (134.0, 81.0)
+
+train/S04/c028: 1920 x 1080
+min box area: 2160
+max iou: 0.0
+min distance x, y: (30.0, 106.0)
+
+train/S04/c029: 1920 x 1080
+min box area: 8648
+max iou: 0.3220462406699436
+min distance x, y: (190.0, 148.5)
+
+train/S04/c030: 1600 x 1200
+min box area: 1476
+max iou: 0.3095446431696475
+min distance x, y: (51.5, 240.5)
+
+train/S04/c031: 1600 x 1200
+min box area: 59752
+max iou: 0.13054663955112342
+min distance x, y: (174.0, 184.5)
+
+train/S04/c032: 1600 x 1200
+min box area: 1054
+max iou: 0.3125
+min distance x, y: (132.5, 199.5)
+
+train/S04/c033: 1920 x 1080
+min box area: 16188
+max iou: 0.36708054059993406
+min distance x, y: (106.0, 77.0)
+
+train/S04/c034: 1920 x 1080
+min box area: 1763
+max iou: 0.26754113999523016
+min distance x, y: (109.5, 133.5)
+
+train/S04/c035: 1920 x 1080
+min box area: 2310
+max iou: 0.23728813559322035
+min distance x, y: (50.0, 21.0)
+
+train/S04/c036: 1920 x 1080
+min box area: 5016
+max iou: 0.3078892250407261
+min distance x, y: (145.5, 167.5)
+
+train/S04/c037: 1920 x 1088
+min box area: 17388
+max iou: 0.28654855827273495
+min distance x, y: (136.0, 150.5)
+
+train/S04/c038: 2560 x 1920
+min box area: 4032
+max iou: 0.15777940102264426
+min distance x, y: (310.5, 451.5)
+
+train/S04/c039: 2560 x 1920
+min box area: 3480
+max iou: 0.04981628642228488
+min distance x, y: (30.0, 380.5)
+
+train/S04/c040: 1600 x 1200
+min box area: 1530
+max iou: 0.25325830459248505
+min distance x, y: (66.5, 258.0)
+
+validation/S02/c006: 1920 x 1080
+min box area: 6688
+max iou: 0.20841072888030315
+min distance x, y: (71.0, 139.5)
+
+validation/S02/c007: 1920 x 1080
+min box area: 16650
+max iou: 0.18684829721362228
+min distance x, y: (132.5, 157.0)
+
+validation/S02/c008: 1920 x 1080
+min box area: 6808
+max iou: 0.1558195691352823
+min distance x, y: (134.5, 162.0)
+
+validation/S02/c009: 1920 x 1080
+min box area: 6640
+max iou: 0.2094070552914686
+min distance x, y: (85.5, 163.5)
+
+validation/S05/c010: 1920 x 1080
+min box area: 6840
+max iou: 0.1469065911847958
+min distance x, y: (367.5, 91.5)
+
+validation/S05/c016: 1920 x 1080
+min box area: 6860
+max iou: 0.21014009339559706
+min distance x, y: (129.5, 94.0)
+
+validation/S05/c017: 1920 x 1080
+min box area: 12516
+max iou: 0.1590909090909091
+min distance x, y: (99.5, 166.0)
+
+validation/S05/c018: 2560 x 1920
+min box area: 12513
+max iou: 0.08915547233894319
+min distance x, y: (64.0, 323.0)
+
+validation/S05/c019: 2560 x 1920
+min box area: 13530
+max iou: 0.07648559323281597
+min distance x, y: (322.0, 343.0)
+
+validation/S05/c020: 2560 x 1920
+min box area: 13493
+max iou: 0.10391774090404228
+min distance x, y: (287.0, 503.0)
+
+validation/S05/c021: 1920 x 1080
+min box area: 10062
+max iou: 0.14409862570735651
+min distance x, y: (194.5, 71.5)
+
+validation/S05/c022: 1920 x 1080
+min box area: 6840
+max iou: 0.1768223975036838
+min distance x, y: (225.5, 136.5)
+
+validation/S05/c023: 2560 x 1920
+min box area: 13362
+max iou: 0.16675809105869446
+min distance x, y: (335.0, 361.0)
+
+validation/S05/c024: 2560 x 1920
+min box area: 15232
+max iou: 0.002326180995215859
+min distance x, y: (237.5, 240.0)
+
+validation/S05/c025: 2560 x 1920
+min box area: 13400
+max iou: 0.13454986240335473
+min distance x, y: (226.5, 309.5)
+
+validation/S05/c026: 1920 x 1080
+min box area: 6840
+max iou: 0.18807418963425204
+min distance x, y: (231.0, 73.5)
+
+validation/S05/c027: 1920 x 1080
+min box area: 6825
+max iou: 0.18542944785276075
+min distance x, y: (121.5, 49.0)
+
+validation/S05/c028: 1920 x 1080
+min box area: 6930
+max iou: 0.17184537771922495
+min distance x, y: (51.5, 113.0)
+
+validation/S05/c029: 1920 x 1080
+min box area: 6786
+max iou: 0.22729085254007497
+min distance x, y: (141.5, 142.0)
+
+validation/S05/c033: 1920 x 1080
+min box area: 16688
+max iou: 0.17996065456496468
+min distance x, y: (114.0, 108.0)
+
+validation/S05/c034: 1920 x 1080
+min box area: 6853
+max iou: 0.1941747572815534
+min distance x, y: (125.0, 140.0)
+
+validation/S05/c035: 1920 x 1080
+min box area: 6840
+max iou: 0.2857142857142857
+min distance x, y: (54.0, 36.0)
+
+validation/S05/c036: 1920 x 1080
+min box area: 6840
+max iou: 0.1726021162817158
+min distance x, y: (114.5, 190.5)
+
+test/S06/c041: 1280 x 960
+test/S06/c042: 1280 x 960
+test/S06/c043: 1280 x 960
+test/S06/c044: 1280 x 960
+test/S06/c045: 1280 x 720
+test/S06/c046: 1280 x 720

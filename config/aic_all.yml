@@ -1,0 +1,10 @@
+CHALLENGE_DATA_DIR: '/mnt/LocalDisk1/Projects/AIC21-MTMC/datasets/AIC22_Track1_MTMC_Tracking/'
+DET_SOURCE_DIR: '/mnt/LocalDisk1/Projects/AIC21-MTMC/datasets/algorithm_results/detection/images/test/S06/'
+DATA_DIR: '/mnt/LocalDisk1/Projects/AIC21-MTMC/datasets/algorithm_results/detect_merge/'
+REID_SIZE_TEST: [384, 384]    # 384, 256
+ROI_DIR: '/mnt/LocalDisk1/Projects/AIC21-MTMC/datasets/AIC22_Track1_MTMC_Tracking/test/S06/'
+CID_BIAS_DIR: '/mnt/LocalDisk1/Projects/AIC21-MTMC/datasets/AIC22_Track1_MTMC_Tracking/cam_timestamp/'
+USE_RERANK: True
+USE_FF: True
+SCORE_THR: 0.1
+MCMT_OUTPUT_TXT: 'track1.txt'

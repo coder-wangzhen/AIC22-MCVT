@@ -1,0 +1,10 @@
+set(KalmanFilter_SOURCES
+        ${CMAKE_CURRENT_SOURCE_DIR}/kalmanfilter.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/linear_assignment.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/nn_matching.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/track.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/tracker.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/city_tracker.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+        PARENT_SCOPE
+)

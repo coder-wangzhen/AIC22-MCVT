@@ -1,0 +1,23 @@
+set(ECO_HEADERS
+        ${CMAKE_CURRENT_SOURCE_DIR}/debug.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/eco.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/feature_extractor.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/feature_operator.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/ffttools.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/fhog.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/gradient.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/interpolator.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/metrics.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/parameters.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/recttools.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/sample_update.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/scale_filter.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/sse2neon.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/training.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/vot.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/wrappers.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/optimize_scores.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/regularization_filter.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/sse.hpp
+        PARENT_SCOPE
+)

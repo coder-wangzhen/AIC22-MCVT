@@ -1,0 +1,9 @@
+set(KalmanFilter_HEADERS
+        ${CMAKE_CURRENT_SOURCE_DIR}/kalmanfilter.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/linear_assignment.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/nn_matching.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/track.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/tracker.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/city_tracker.h
+        PARENT_SCOPE
+)
