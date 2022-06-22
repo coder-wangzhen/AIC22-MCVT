@@ -72,4 +72,13 @@ If you want rapidly reproduce our results, you can directly download `algorithm_
 The final results will locate at path ```./matching/track1.txt```
 
 ## Citation
-TBA
+```
+@InProceedings{Li_2022_CVPR,
+    author    = {Li, Fei and Wang, Zhen and Nie, Ding and Zhang, Shiyi and Jiang, Xingqun and Zhao, Xingxing and Hu, Peng},
+    title     = {Multi-Camera Vehicle Tracking System for AI City Challenge 2022},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {3265-3273}
+}
+```
