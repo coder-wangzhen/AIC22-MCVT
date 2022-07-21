@@ -3,6 +3,7 @@
 The 2nd place solution of track1 (City-Scale Multi-Camera Vehicle Tracking) in the [NVIDIA AI City Challenge](https://www.aicitychallenge.org/) from team 59 ([BOE Technology Group Co., Ltd](https://www.boe.com/en))
 
 ## Environment 
+- OS: Ubuntu 20.04
 - GPU Compute Capability: 7.5
 - CUDA: 11.4.2
 - Python: 3.8.10
@@ -10,7 +11,7 @@ The 2nd place solution of track1 (City-Scale Multi-Camera Vehicle Tracking) in t
 - OpenCV: 4.5.3 (Compilation from the source code [opencv-4.5.3](https://github.com/opencv/opencv/archive/refs/tags/4.5.3.tar.gz), [opencv_contrib-4.5.3](https://github.com/opencv/opencv_contrib/archive/refs/tags/4.5.3.tar.gz))
 - Ohter dependencies are in the `requirements.txt`
 
-You can run the command below to get [our docker image](https://hub.docker.com/repository/docker/wangzhen95/deeplearning) that built based on the `pytorch:20.11-py3` from [NVIDIA NGC](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel_21-09.html#rel_21-09).
+You can run the command below to get [our docker image](https://hub.docker.com/repository/docker/wangzhen95/deeplearning) that built based on the `pytorch:21.09-py3` from [NVIDIA NGC](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel_21-09.html#rel_21-09).
 ```
 docker pull wangzhen95/deeplearning:v1.3
 ``` 
